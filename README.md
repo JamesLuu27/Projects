@@ -1,4 +1,5 @@
-# Projects
-This is to test my project.
-Top20 States is my Homework Assignment for Tableau. It's to showcase my ability to filter and order top 20 based on claim number or cost. The map graph shows that I can add tooltips along with showing specific states.
-jamesluu2018youtube is based off a project on how I transfer excel data to tableau, and showcase the top trending videos of youtube in 2018. It's organized to show channel that exclude music. It is to see if youtube as a career would be viable or not.
+# Excel Project
+These are some of the homework/project that I done over my school course. In excel, I learn how to use vba programming to create a userform for people to input data. There's an add/delete and cancel option. Along with that, I have formula with vlookup, countif, average, conditinal formatting, hiding duplicates, highlight and creating database.
+# Tableau Project
+I know tooltip, labels, color and filters along with calculated & parameter field. For my homework, I created bar graph to showcase top 20 drugs in the US based on drug claim, and drug cost. I created a map using label for amount of drug based on states and only showing top 5 states in their respective name. 
+For my project, I created a circle graph to show the top trending videos of youtube in 2018. I taken the data from kaggle, and filter out any music video. By doing so, I was able to see what's the average income for a youtube based on ads and content. 
