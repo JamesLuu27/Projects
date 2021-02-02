@@ -3,3 +3,6 @@ These are some of the homework/project that I done over my school course. In exc
 # Tableau Project
 I know tooltip, labels, color and filters along with calculated & parameter field. For my homework, I created bar graph to showcase top 20 drugs in the US based on drug claim, and drug cost. I created a map using label for amount of drug based on states and only showing top 5 states in their respective name. 
 For my project, I created a circle graph to show the top trending videos of youtube in 2018. I taken the data from kaggle, and filter out any music video. By doing so, I was able to see what's the average income for a youtube based on ads and content. 
+
+#SQL Codes
+This is just the basic code to show that I understand how to use beginner SQL. Some of these code are just snippet of my project as posting my entire project would be an eyesore. I created comment to show which section contains ampersands, nvl, case, select and prompts. If you run the formula, there will be an error obviously as the table I select does not exist. At the moment I am taking courses on transact SQL and hope to update my portfolio.
